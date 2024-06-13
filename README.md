@@ -22,8 +22,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- Github Status -->
-[![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishxadhikari&hide=contribs\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/jenishxadhikari/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-![Jenish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenishxadhikari&layout=compact&theme=dark#gh-dark-mode-only&hide=html,css&size_weight=0.6&count_weight=0.5)
+![jenishxadhikari's Stats](https://github-readme-stats.vercel.app/api?username=jenishxadhikari&theme=dark&hide=contribs&show_icons=true&hide_border=true&count_private=true)
+![jenishxadhikari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenishxadhikari&theme=dark&hide=html,css&show_icons=true&hide_border=true&layout=compact)
 
 ## Socials
 <a href="https://www.linkedin.com/in/adhikarijenish/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
